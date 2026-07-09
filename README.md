@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
