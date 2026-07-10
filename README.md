@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Data Stream
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
