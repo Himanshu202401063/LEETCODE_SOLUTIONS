@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,4 +144,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
