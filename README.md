@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
