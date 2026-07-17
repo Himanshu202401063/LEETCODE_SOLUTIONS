@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
