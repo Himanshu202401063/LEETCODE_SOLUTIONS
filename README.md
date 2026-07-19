@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
 ## Stack
 |  |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
