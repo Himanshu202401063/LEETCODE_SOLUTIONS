@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
