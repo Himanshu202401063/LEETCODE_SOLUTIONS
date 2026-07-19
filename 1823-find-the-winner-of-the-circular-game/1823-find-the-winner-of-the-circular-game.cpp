@@ -1,15 +1,16 @@
 class Solution {
 public:
+
+
+int rec(int n,int k){
+    if(n==1) return 0;
+    int i = rec(n-1,k);
+     int idx = (i+k)%n;
+      return idx;
+}
     int findTheWinner(int n, int k) {
-        vector<int>a;
-        for(int i=1;i<=n;i++)a.push_back(i);
-  int i=0;
-    while(a.size()>1){
-         int idx =(i+k-1)%a.size();
-         a.erase(a.begin()+idx);
-         i =idx;
-    }
-     return a[0];
-        
+           int x = rec(n,k);
+           return x+1;
+
     }
 };
