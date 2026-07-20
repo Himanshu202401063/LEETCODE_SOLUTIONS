@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
+| [0443-string-compression](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
