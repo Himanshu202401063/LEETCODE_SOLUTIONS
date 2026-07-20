@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0443-string-compression](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
+| [0657-robot-return-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
