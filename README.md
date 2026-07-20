@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
 ## Counting
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
