@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
