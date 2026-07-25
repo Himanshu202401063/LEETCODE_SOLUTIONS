@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 ## Shortest Path
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0853-car-fleet) |
+| [1046-last-stone-weight](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
