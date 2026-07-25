@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
