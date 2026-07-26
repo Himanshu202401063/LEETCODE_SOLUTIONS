@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
