@@ -37,41 +37,44 @@ public:
           int n = grid.size();
           int m = grid[0].size();
           dsu ds(n*m +1);
-          queue<pair<int,int>>q;
-           vector<vector<int>>vis(n,vector<int>(m,0));
-          for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1) q.push({i,j});
-            }
-          }
-         vector<int>x={-1,0,1,0};
-         vector<int>y={0,1,0,-1};
-          while(!q.empty()){
-            int i = q.front().first;
-            int j = q.front().second;
-            q.pop();
-            if(vis[i][j]) continue;
-            vis[i][j]=1;
+        //   queue<pair<int,int>>q;
+        //    vector<vector<int>>vis(n,vector<int>(m,0));
+        //   for(int i=0;i<n;i++){
+        //     for(int j=0;j<m;j++){
+        //         if(grid[i][j]==1) q.push({i,j});
+        //     }
+        //   }
+        //  vector<int>x={-1,0,1,0};
+        //  vector<int>y={0,1,0,-1};
+        //   while(!q.empty()){
+        //     int i = q.front().first;
+        //     int j = q.front().second;
+        //     q.pop();
+        //     if(vis[i][j]) continue;
+        //     vis[i][j]=1;
             
-                 for(int  l =0;l<4;l++){
-                    int nx = i+x[l];
-                    int ny = j+y[l];
-                    if(nx>=0 && ny>=0 && nx< n && ny< m && grid[nx][ny]==1 && !vis[nx][ny]){
+        //          for(int  l =0;l<4;l++){
+        //             int nx = i+x[l];
+        //             int ny = j+y[l];
+        //             if(nx>=0 && ny>=0 && nx< n && ny< m && grid[nx][ny]==1 && !vis[nx][ny]){
                        
 
-                        int a = m*(i) +j;
-                        int b = m*(nx)+ ny;
-                     ds.join(a,b);
-                     q.push({nx,ny});
+        //                 int a = m*(i) +j;
+        //                 int b = m*(nx)+ ny;
+        //              ds.join(a,b);
+        //              q.push({nx,ny});
 
-                    }
-                 }
-          }
+        //             }
+        //          }
+        //   }
 int ans =0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
+                if(!grid[i][j])continue;
                  int a = i*m +j;
-                 if(grid[i][j]) ans = max(ans,ds.size[ds.find(a)]);
+                if(i+1<n && grid[i+1][j]) ds.join(m*(i+1)+ j, m*i + j);
+                if(j+1<m && grid[i][j+1]) ds.join(m*i + j , m*i + 1+ j);
+                ans = max(ans,ds.size[ds.find(a)]);
             }
         }
          return ans;
