@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
