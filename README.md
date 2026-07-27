@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0785-is-graph-bipartite) |
