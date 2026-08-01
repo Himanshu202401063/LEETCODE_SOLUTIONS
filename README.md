@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
 | [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -411,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
