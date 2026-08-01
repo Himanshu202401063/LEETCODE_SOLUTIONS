@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0706-design-hashmap) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0166-fraction-to-recurring-decimal) |
+| [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -403,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
