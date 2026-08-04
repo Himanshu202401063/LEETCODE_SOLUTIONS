@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0968-binary-tree-cameras) |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1314-matrix-block-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -418,4 +422,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
