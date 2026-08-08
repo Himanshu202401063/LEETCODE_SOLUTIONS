@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0981-time-based-key-value-store) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0647-palindromic-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
