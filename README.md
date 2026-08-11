@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
