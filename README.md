@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
