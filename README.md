@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2261-k-divisible-elements-subarrays) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -442,14 +446,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Himanshu202401063/LEETCODE_SOLUTIONS/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
